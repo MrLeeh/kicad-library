@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HCT125
+D Quad buffer/line driver; 3-state
+K TTL BUFFER 3State 
+F http://www.ti.com/lit/ds/symlink/sn74hct125.pdf
+$ENDCMP
+#
+#End Doc Library
