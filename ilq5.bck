@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ILQ5
+D Optocoupler, Phototransistor Output (Quad Channel)
+K Optocoupler
+F http://docs-europe.electrocomponents.com/webdocs/1300/0900766b81300a92.pdf
+$ENDCMP
+#
+#End Doc Library
