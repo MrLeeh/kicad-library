@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Raspberry_Pi_GPIO_40Pin
+D Raspberry GPIO 40Pin Header
+K Raspberry Pi
+F https://de.pinout.xyz/pinout/pin40_gpio21
+$ENDCMP
+#
+#End Doc Library
